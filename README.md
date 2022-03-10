@@ -1,6 +1,6 @@
 ### 👋 Hi there, I’m Leon! @DMLCL
 
-- 📫 I’m currently study at The university of Auckland
+- 📫 I’m currently study at The University of Auckland
 - 🌱 I’m currently learning in Game design and C++ development related to UE
 - 📫 How to reach me ...
 
